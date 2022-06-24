@@ -1,0 +1,28 @@
+body{
+    background-color: goldenrod;
+}
+div{
+    margin: 0;
+    padding: 50px;
+}
+h1{
+    border-radius: 5rem;
+    box-shadow: 5px 10px;
+    color: blueviolet;
+    background-color: black;
+    border-color: red;
+    padding: 2rem;
+}
+.data1{
+    display: flex;
+    justify-content: space-between;
+}
+.data2{
+    display: flex;
+    justify-content:space-between ;
+}
+.data3{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}

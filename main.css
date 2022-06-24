@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+    position:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items: center;
+    display: flex;
+    padding: left 600px;
+    padding-top: 250px;
+    padding-left: 550px;
+}
